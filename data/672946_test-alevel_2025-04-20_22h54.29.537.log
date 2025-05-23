@@ -1,0 +1,43 @@
+6.5164 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+6.8172 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017A18DF4700>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017A18DF46A0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000017A19BB3B80>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.8172 	EXP 	window1: backgroundImage = ''
+6.8172 	EXP 	window1: backgroundFit = 'none'
+6.8801 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.8802 	EXP 	window1: recordFrameIntervals = False
+7.1043 	EXP 	window1: recordFrameIntervals = True
+7.2875 	EXP 	Screen (0) actual frame rate measured at 60.30Hz
+7.2875 	EXP 	window1: recordFrameIntervals = False
+9.5988 	INFO 	keyboard.Keyboard is using iohub backend.
+9.5988 	INFO 	keyboard.Keyboard is using iohub backend.
+9.5989 	EXP 	test-alevel: status = STARTED
+9.6088 	EXP 	Created imageQuestion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='imageQuestion', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+9.7137 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0250 	EXP 	Imported article_stim.xlsx as conditions, 20 conditions, 2 params
+0.0256 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Question_image': 'image/question14.png', 'Correct_key': 3, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.1190 	INFO 	Keyboard events cleared
+0.1188 	EXP 	imageQuestion: image = 'image/question14.png'
+0.1188 	EXP 	imageQuestion: autoDraw = True
+17.0326 	DATA 	Keypress: 1
+17.0415 	EXP 	imageQuestion: autoDraw = False
+17.0415 	EXP 	text: autoDraw = True
+17.5255 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Question_image': 'image/question1.png', 'Correct_key': 2, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+17.5635 	INFO 	Keyboard events cleared
+17.5633 	EXP 	text: autoDraw = False
+17.5633 	EXP 	text: autoDraw = False
+17.5633 	EXP 	imageQuestion: image = 'image/question1.png'
+17.5633 	EXP 	imageQuestion: autoDraw = True
+18.2141 	DATA 	Keypress: 1
+18.2297 	EXP 	imageQuestion: autoDraw = False
+18.2297 	EXP 	text: autoDraw = True
+18.7139 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Question_image': 'image/question7.png', 'Correct_key': 1, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+18.7509 	INFO 	Keyboard events cleared
+18.7507 	EXP 	text: autoDraw = False
+18.7507 	EXP 	text: autoDraw = False
+18.7507 	EXP 	imageQuestion: image = 'image/question7.png'
+18.7507 	EXP 	imageQuestion: autoDraw = True
+19.3352 	DATA 	Keypress: escape
+19.4016 	EXP 	test-alevel: status = STOPPED
+19.4180 	EXP 	imageQuestion: autoDraw = False
+19.4180 	EXP 	test-alevel: status = STOPPED
+19.4224 	INFO 	saved data to 'C:\\psychopywork\\test-alevel\\data/672946_test-alevel_2025-04-20_22h54.29.537.csv'
+19.4229 	INFO 	saved data to C:\psychopywork\test-alevel\data/672946_test-alevel_2025-04-20_22h54.29.537.psydat

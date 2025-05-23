@@ -1,0 +1,19 @@
+4.1992 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+4.3457 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000211291F6670>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000211291F6610>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002112A035AF0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.3457 	EXP 	window1: backgroundImage = ''
+4.3457 	EXP 	window1: backgroundFit = 'none'
+4.4083 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.4084 	EXP 	window1: recordFrameIntervals = False
+4.6064 	EXP 	window1: recordFrameIntervals = True
+4.7899 	EXP 	Screen (0) actual frame rate measured at 59.98Hz
+4.7899 	EXP 	window1: recordFrameIntervals = False
+7.0852 	INFO 	keyboard.Keyboard is using iohub backend.
+7.0853 	INFO 	keyboard.Keyboard is using iohub backend.
+7.0853 	EXP 	test-alevel: status = STARTED
+7.0907 	EXP 	Created imageQuestion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='imageQuestion', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+7.1250 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0131 	EXP 	Imported article_stim.xlsx as conditions, 20 conditions, 1 params
+0.0134 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Question_image': 'image/question16.png', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0138 	DEPRECATION 	Couldn't find image image/question16.png; check path? (tried: C:\psychopywork\test-alevel\image\question16.png)
+0.4295 	INFO 	saved data to C:\psychopywork\test-alevel\data/356233_test-alevel_2025-03-28_01h35.17.799.psydat
+0.4298 	INFO 	saved data to 'C:\\psychopywork\\test-alevel\\data/356233_test-alevel_2025-03-28_01h35.17.799.csv'

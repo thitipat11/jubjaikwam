@@ -1,0 +1,201 @@
+4.0797 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+4.2264 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002BECDFA88E0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002BECDFA8550>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002BECDFE9D60>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.2265 	EXP 	window1: backgroundImage = ''
+4.2265 	EXP 	window1: backgroundFit = 'none'
+4.2852 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.2853 	EXP 	window1: recordFrameIntervals = False
+4.5237 	EXP 	window1: recordFrameIntervals = True
+4.7073 	EXP 	Screen (0) actual frame rate measured at 59.92Hz
+4.7074 	EXP 	window1: recordFrameIntervals = False
+6.5404 	INFO 	keyboard.Keyboard is using iohub backend.
+6.5404 	INFO 	keyboard.Keyboard is using iohub backend.
+6.5404 	INFO 	keyboard.Keyboard is using iohub backend.
+6.5405 	EXP 	test-alevel: status = STARTED
+6.6293 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/kumnum.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+6.6335 	EXP 	Created imageQuestion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='imageQuestion', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+6.7188 	EXP 	Created imageBlank = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/Screenshot (172).png', interpolate=True, mask=None, maskParams=None, name='imageBlank', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+0.0205 	INFO 	Keyboard events cleared
+0.0203 	EXP 	image: autoDraw = True
+0.5772 	EXP 	Imported article_stim.xlsx as conditions, 20 conditions, 2 params
+0.5811 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Question_image': 'image/question5.png', 'Correct_key': 2, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.6552 	DATA 	Keypress: space
+0.6700 	INFO 	Keyboard events cleared
+0.6698 	EXP 	image: autoDraw = False
+0.6698 	EXP 	imageQuestion: image = 'image/question5.png'
+0.6698 	EXP 	imageQuestion: autoDraw = True
+2.0048 	DATA 	Keypress: space
+2.3226 	DATA 	Keypress: 1
+2.3378 	EXP 	imageQuestion: autoDraw = False
+2.3378 	EXP 	imageBlank: autoDraw = True
+2.8218 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Question_image': 'image/question10.png', 'Correct_key': 1, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+2.8589 	INFO 	Keyboard events cleared
+2.8588 	EXP 	imageBlank: autoDraw = False
+2.8588 	EXP 	imageBlank: autoDraw = False
+2.8588 	EXP 	imageQuestion: image = 'image/question10.png'
+2.8588 	EXP 	imageQuestion: autoDraw = True
+4.1273 	DATA 	Keypress: 1
+4.1433 	EXP 	imageQuestion: autoDraw = False
+4.1433 	EXP 	imageBlank: autoDraw = True
+4.6271 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'Question_image': 'image/question12.png', 'Correct_key': 3, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+4.6645 	INFO 	Keyboard events cleared
+4.6642 	EXP 	imageBlank: autoDraw = False
+4.6642 	EXP 	imageQuestion: image = 'image/question12.png'
+4.6642 	EXP 	imageQuestion: autoDraw = True
+6.2333 	DATA 	Keypress: 1
+6.2490 	EXP 	imageQuestion: autoDraw = False
+6.2490 	EXP 	imageBlank: autoDraw = True
+6.7330 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'Question_image': 'image/question18.png', 'Correct_key': 2, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+6.7702 	INFO 	Keyboard events cleared
+6.7700 	EXP 	imageBlank: autoDraw = False
+6.7700 	EXP 	imageBlank: autoDraw = False
+6.7700 	EXP 	imageQuestion: image = 'image/question18.png'
+6.7700 	EXP 	imageQuestion: autoDraw = True
+8.1723 	DATA 	Keypress: 1
+8.1879 	EXP 	imageQuestion: autoDraw = False
+8.1879 	EXP 	imageBlank: autoDraw = True
+8.6720 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'Question_image': 'image/question3.png', 'Correct_key': 4, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+8.7091 	INFO 	Keyboard events cleared
+8.7089 	EXP 	imageBlank: autoDraw = False
+8.7089 	EXP 	imageBlank: autoDraw = False
+8.7089 	EXP 	imageQuestion: image = 'image/question3.png'
+8.7089 	EXP 	imageQuestion: autoDraw = True
+11.0619 	DATA 	Keypress: 1
+11.0777 	EXP 	imageQuestion: autoDraw = False
+11.0777 	EXP 	imageBlank: autoDraw = True
+11.5617 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'Question_image': 'image/question2.png', 'Correct_key': 4, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+11.5989 	INFO 	Keyboard events cleared
+11.5987 	EXP 	imageBlank: autoDraw = False
+11.5987 	EXP 	imageBlank: autoDraw = False
+11.5987 	EXP 	imageQuestion: image = 'image/question2.png'
+11.5987 	EXP 	imageQuestion: autoDraw = True
+13.6182 	DATA 	Keypress: 1
+13.6338 	EXP 	imageQuestion: autoDraw = False
+13.6338 	EXP 	imageBlank: autoDraw = True
+14.1179 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'Question_image': 'image/question19.png', 'Correct_key': 1, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+14.1550 	INFO 	Keyboard events cleared
+14.1548 	EXP 	imageBlank: autoDraw = False
+14.1548 	EXP 	imageBlank: autoDraw = False
+14.1548 	EXP 	imageQuestion: image = 'image/question19.png'
+14.1548 	EXP 	imageQuestion: autoDraw = True
+15.8239 	DATA 	Keypress: 1
+15.8396 	EXP 	imageQuestion: autoDraw = False
+15.8396 	EXP 	imageBlank: autoDraw = True
+16.3237 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'Question_image': 'image/question1.png', 'Correct_key': 2, 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+16.3608 	INFO 	Keyboard events cleared
+16.3607 	EXP 	imageBlank: autoDraw = False
+16.3607 	EXP 	imageBlank: autoDraw = False
+16.3607 	EXP 	imageQuestion: image = 'image/question1.png'
+16.3607 	EXP 	imageQuestion: autoDraw = True
+17.4793 	DATA 	Keypress: 1
+17.4950 	EXP 	imageQuestion: autoDraw = False
+17.4950 	EXP 	imageBlank: autoDraw = True
+17.9791 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'Question_image': 'image/question6.png', 'Correct_key': 3, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+18.0161 	INFO 	Keyboard events cleared
+18.0160 	EXP 	imageBlank: autoDraw = False
+18.0160 	EXP 	imageBlank: autoDraw = False
+18.0160 	EXP 	imageQuestion: image = 'image/question6.png'
+18.0160 	EXP 	imageQuestion: autoDraw = True
+20.7193 	DATA 	Keypress: 1
+20.7351 	EXP 	imageQuestion: autoDraw = False
+20.7351 	EXP 	imageBlank: autoDraw = True
+21.2191 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'Question_image': 'image/question17.png', 'Correct_key': 3, 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+21.2567 	INFO 	Keyboard events cleared
+21.2565 	EXP 	imageBlank: autoDraw = False
+21.2565 	EXP 	imageBlank: autoDraw = False
+21.2565 	EXP 	imageQuestion: image = 'image/question17.png'
+21.2565 	EXP 	imageQuestion: autoDraw = True
+22.3579 	DATA 	Keypress: 1
+22.3737 	EXP 	imageQuestion: autoDraw = False
+22.3737 	EXP 	imageBlank: autoDraw = True
+22.8582 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'Question_image': 'image/question16.png', 'Correct_key': 2, 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+22.8949 	INFO 	Keyboard events cleared
+22.8947 	EXP 	imageBlank: autoDraw = False
+22.8947 	EXP 	imageQuestion: image = 'image/question16.png'
+22.8947 	EXP 	imageQuestion: autoDraw = True
+24.1801 	DATA 	Keypress: 1
+24.1958 	EXP 	imageQuestion: autoDraw = False
+24.1958 	EXP 	imageBlank: autoDraw = True
+24.6799 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'Question_image': 'image/question15.png', 'Correct_key': 2, 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+24.7170 	INFO 	Keyboard events cleared
+24.7168 	EXP 	imageBlank: autoDraw = False
+24.7168 	EXP 	imageBlank: autoDraw = False
+24.7168 	EXP 	imageQuestion: image = 'image/question15.png'
+24.7168 	EXP 	imageQuestion: autoDraw = True
+26.5694 	DATA 	Keypress: 1
+26.5852 	EXP 	imageQuestion: autoDraw = False
+26.5852 	EXP 	imageBlank: autoDraw = True
+27.0693 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'Question_image': 'image/question20.png', 'Correct_key': 4, 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+27.1064 	INFO 	Keyboard events cleared
+27.1062 	EXP 	imageBlank: autoDraw = False
+27.1062 	EXP 	imageBlank: autoDraw = False
+27.1062 	EXP 	imageQuestion: image = 'image/question20.png'
+27.1062 	EXP 	imageQuestion: autoDraw = True
+30.2434 	DATA 	Keypress: 1
+30.2590 	EXP 	imageQuestion: autoDraw = False
+30.2590 	EXP 	imageBlank: autoDraw = True
+30.7431 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'Question_image': 'image/question7.png', 'Correct_key': 1, 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+30.7802 	INFO 	Keyboard events cleared
+30.7800 	EXP 	imageBlank: autoDraw = False
+30.7800 	EXP 	imageBlank: autoDraw = False
+30.7800 	EXP 	imageQuestion: image = 'image/question7.png'
+30.7800 	EXP 	imageQuestion: autoDraw = True
+32.9995 	DATA 	Keypress: 1
+33.0153 	EXP 	imageQuestion: autoDraw = False
+33.0153 	EXP 	imageBlank: autoDraw = True
+33.4992 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'Question_image': 'image/question8.png', 'Correct_key': 2, 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+33.5365 	INFO 	Keyboard events cleared
+33.5363 	EXP 	imageBlank: autoDraw = False
+33.5363 	EXP 	imageQuestion: image = 'image/question8.png'
+33.5363 	EXP 	imageQuestion: autoDraw = True
+36.6068 	DATA 	Keypress: 1
+36.6223 	EXP 	imageQuestion: autoDraw = False
+36.6223 	EXP 	imageBlank: autoDraw = True
+37.1065 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'Question_image': 'image/question9.png', 'Correct_key': 4, 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+37.1436 	INFO 	Keyboard events cleared
+37.1434 	EXP 	imageBlank: autoDraw = False
+37.1434 	EXP 	imageBlank: autoDraw = False
+37.1434 	EXP 	imageQuestion: image = 'image/question9.png'
+37.1434 	EXP 	imageQuestion: autoDraw = True
+41.4482 	DATA 	Keypress: 1
+41.4639 	EXP 	imageQuestion: autoDraw = False
+41.4639 	EXP 	imageBlank: autoDraw = True
+41.9480 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'Question_image': 'image/question13.png', 'Correct_key': 4, 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+41.9851 	INFO 	Keyboard events cleared
+41.9849 	EXP 	imageBlank: autoDraw = False
+41.9849 	EXP 	imageBlank: autoDraw = False
+41.9849 	EXP 	imageQuestion: image = 'image/question13.png'
+41.9849 	EXP 	imageQuestion: autoDraw = True
+45.8892 	DATA 	Keypress: 1
+45.9055 	EXP 	imageQuestion: autoDraw = False
+45.9055 	EXP 	imageBlank: autoDraw = True
+46.3889 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'Question_image': 'image/question4.png', 'Correct_key': 4, 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+46.4264 	INFO 	Keyboard events cleared
+46.4261 	EXP 	imageBlank: autoDraw = False
+46.4261 	EXP 	imageQuestion: image = 'image/question4.png'
+46.4261 	EXP 	imageQuestion: autoDraw = True
+50.7476 	DATA 	Keypress: 1
+50.7643 	EXP 	imageQuestion: autoDraw = False
+50.7643 	EXP 	imageBlank: autoDraw = True
+51.2473 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'Question_image': 'image/question14.png', 'Correct_key': 3, 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+51.2849 	INFO 	Keyboard events cleared
+51.2847 	EXP 	imageBlank: autoDraw = False
+51.2847 	EXP 	imageBlank: autoDraw = False
+51.2847 	EXP 	imageQuestion: image = 'image/question14.png'
+51.2847 	EXP 	imageQuestion: autoDraw = True
+55.8726 	DATA 	Keypress: 1
+55.8883 	EXP 	imageQuestion: autoDraw = False
+55.8883 	EXP 	imageBlank: autoDraw = True
+56.3724 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'Question_image': 'image/question11.png', 'Correct_key': 3, 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+56.4096 	INFO 	Keyboard events cleared
+56.4093 	EXP 	imageBlank: autoDraw = False
+56.4093 	EXP 	imageBlank: autoDraw = False
+56.4093 	EXP 	imageQuestion: image = 'image/question11.png'
+56.4093 	EXP 	imageQuestion: autoDraw = True
+59.7968 	DATA 	Keypress: 1
+59.8124 	EXP 	imageQuestion: autoDraw = False
+59.8124 	EXP 	imageBlank: autoDraw = True
+60.3128 	EXP 	imageBlank: autoDraw = False
+60.3128 	EXP 	imageBlank: autoDraw = False
+60.3128 	EXP 	test-alevel: status = STOPPED
+60.3194 	INFO 	saved data to 'C:\\psychopywork\\jubjaikwam\\data/998791_test-alevel_2025-05-15_17h57.26.069.csv'
+60.3199 	INFO 	saved data to C:\psychopywork\jubjaikwam\data/998791_test-alevel_2025-05-15_17h57.26.069.psydat

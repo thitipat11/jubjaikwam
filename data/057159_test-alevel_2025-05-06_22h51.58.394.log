@@ -1,0 +1,39 @@
+6.1647 	INFO 	Loaded monitor calibration from ['2025_02_13 22:41']
+6.5378 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017F77C677C0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000017F77C67400>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000017F77BE6C40>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.5378 	EXP 	window1: backgroundImage = ''
+6.5378 	EXP 	window1: backgroundFit = 'none'
+6.6059 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.6060 	EXP 	window1: recordFrameIntervals = False
+6.8698 	EXP 	window1: recordFrameIntervals = True
+7.0527 	EXP 	Screen (0) actual frame rate measured at 60.15Hz
+7.0527 	EXP 	window1: recordFrameIntervals = False
+9.4948 	INFO 	keyboard.Keyboard is using iohub backend.
+9.4949 	INFO 	keyboard.Keyboard is using iohub backend.
+9.4949 	INFO 	keyboard.Keyboard is using iohub backend.
+9.4949 	EXP 	test-alevel: status = STARTED
+9.5910 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/kumnum.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+9.5958 	EXP 	Created imageQuestion = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='imageQuestion', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1.78, 1.  ]), texRes=128.0, units='height', win=Window(...))
+9.6798 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='image/Screenshot (172).png', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0244 	INFO 	Keyboard events cleared
+0.0242 	EXP 	image: autoDraw = True
+1.2825 	EXP 	Imported article_stim.xlsx as conditions, 20 conditions, 2 params
+1.2830 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Question_image': 'image/question6.png', 'Correct_key': 3, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.3580 	DATA 	Keypress: space
+1.3650 	INFO 	Keyboard events cleared
+1.3648 	EXP 	image: autoDraw = False
+1.3648 	EXP 	imageQuestion: image = 'image/question6.png'
+1.3648 	EXP 	imageQuestion: autoDraw = True
+2.4175 	DATA 	Keypress: 1
+2.4330 	EXP 	imageQuestion: autoDraw = False
+2.4330 	EXP 	image_2: autoDraw = True
+3.4188 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'Question_image': 'image/question19.png', 'Correct_key': 1, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.4717 	INFO 	Keyboard events cleared
+3.4715 	EXP 	image_2: autoDraw = False
+3.4715 	EXP 	imageQuestion: image = 'image/question19.png'
+3.4715 	EXP 	imageQuestion: autoDraw = True
+3.9888 	DATA 	Keypress: escape
+4.2061 	EXP 	test-alevel: status = STOPPED
+4.2222 	EXP 	imageQuestion: autoDraw = False
+4.2222 	EXP 	test-alevel: status = STOPPED
+4.2268 	INFO 	saved data to 'C:\\psychopywork\\test-alevel\\data/057159_test-alevel_2025-05-06_22h51.58.394.csv'
+4.2273 	INFO 	saved data to C:\psychopywork\test-alevel\data/057159_test-alevel_2025-05-06_22h51.58.394.psydat
